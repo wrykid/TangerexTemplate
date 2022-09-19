@@ -4,38 +4,6 @@
 Tangerex Template.
 This can be used to replace the down replit of tangerex template.
 
-Template:
-
---put the remove hat mesh here
-
-local tangerex = loadstring(game:HttpGet("https://31645703-63d0-4449-8f89-04447a57bcc6.id.repl.co/Tangerex/Template/main.lua"))()
-
-reanimate = tangerex:Reanimate("SP",false --[[Usage: true or false to toggle click fling]]) -- SP / Simple, LF / Leg Fling, TF / Torso Fling, PD / Perma Death [Fling]
-
---Put the hat here
-
-reanimate:Animation("idle",function()
---idlelerphere
-end)
-
-reanimate:Animation("walk",function()
---walklerphere
-end)
-
-reanimate:Animation("run",function()
---runlerphere
-end)
-
-reanimate:Animation("jump",function()
---jumplerphere
-end)
-
-reanimate:Animation("fall",function()
---falllerphere
-end)
-
-
-
 Other script stuff:
 
 reanimate:NewAnimation("animation name",function()
