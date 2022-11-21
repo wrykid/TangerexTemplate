@@ -1,5 +1,5 @@
 # TangerexTemplate
-(updated every time!!)
+(doesnt get updated now since discontinued, but be ready for the coffeine one. if the servers will be good then i will not make.)
 (NOT MINE)
 (DISCONTINUED SINCE TGX HAS REBRANDED)
 
