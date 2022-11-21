@@ -12,4 +12,4 @@ Just replace: local tangerex = loadstring(game:HttpGet("https://something.id.rep
 
 and thats it!
 
-TGX Discord Server: https://dsc.gg/tanx
+Coffeine (tgx got rebranded to that name) Discord Invite: https://discord.gg/5s4WR4AUnA
