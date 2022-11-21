@@ -1,6 +1,7 @@
 # TangerexTemplate
 (updated every time!!)
 (NOT MINE)
+(DISCONTINUED SINCE TGX HAS REBRANDED)
 
 Tangerex Template.
 This can be used to replace the down replit of tangerex template.
