@@ -1,5 +1,5 @@
 # TangerexTemplate
-(doesnt get updated now since discontinued, but be ready for the coffeine one. if the servers will be good then i will not make.)
+(doesnt get updated now since discontinued, but be ready for the nebula one. if the servers will be good then i will not make.)
 (NOT MINE)
 (DISCONTINUED SINCE TGX HAS REBRANDED)
 
@@ -12,4 +12,4 @@ Just replace: local tangerex = loadstring(game:HttpGet("https://something.id.rep
 
 and thats it!
 
-Coffeine (tgx got rebranded to that name) Discord Invite: https://discord.gg/5s4WR4AUnA
+Coffeine (tgx got rebranded to that name) Discord Invite: https://discord.gg/AvfPG5Djpt
